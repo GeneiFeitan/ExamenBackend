@@ -1,0 +1,3 @@
+[submodule "Evaluacion-frontend"]
+	path = Evaluacion-frontend
+	url = https://github.com/GeneiFeitan/Evaluacion-frontend
